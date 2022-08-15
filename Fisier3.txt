@@ -1,2 +1,4 @@
 Acesta este fisierul 3..
-modificare 1
+Modificare punct 14 
+A doua modificare punct 15 #conflict rezolvat 
+
